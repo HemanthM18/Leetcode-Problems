@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
+| [0509-fibonacci-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
