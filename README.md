@@ -18,6 +18,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
@@ -36,6 +37,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
