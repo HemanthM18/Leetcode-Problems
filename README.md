@@ -6,10 +6,12 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0283-move-zeroes](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [3668-restore-finishing-order](https://github.com/HemanthM18/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
+| [3668-restore-finishing-order](https://github.com/HemanthM18/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
