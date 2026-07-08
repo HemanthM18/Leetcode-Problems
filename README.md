@@ -43,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -63,4 +64,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
