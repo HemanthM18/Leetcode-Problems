@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0283-move-zeroes](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0704-binary-search](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [3668-restore-finishing-order](https://github.com/HemanthM18/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -68,4 +69,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
