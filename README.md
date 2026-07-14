@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0283-move-zeroes](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [3668-restore-finishing-order](https://github.com/HemanthM18/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
@@ -76,5 +77,6 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
