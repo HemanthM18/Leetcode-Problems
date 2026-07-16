@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0763-partition-labels](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [3668-restore-finishing-order](https://github.com/HemanthM18/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@
 | [0075-sort-colors](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
+| [0763-partition-labels](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0344-reverse-string](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
+| [0763-partition-labels](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +114,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0763-partition-labels](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 <!---LeetCode Topics End-->
