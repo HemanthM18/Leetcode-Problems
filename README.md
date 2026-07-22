@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
@@ -18,6 +19,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0763-partition-labels](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [3668-restore-finishing-order](https://github.com/HemanthM18/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Two Pointers
@@ -93,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0217-contains-duplicate](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0912-sort-an-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
