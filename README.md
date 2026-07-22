@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -29,6 +30,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [0763-partition-labels](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
@@ -99,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
