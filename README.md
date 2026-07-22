@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0763-partition-labels](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [3668-restore-finishing-order](https://github.com/HemanthM18/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Two Pointers
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0242-valid-anagram](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [0763-partition-labels](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 ## Bit Manipulation
@@ -96,6 +98,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
