@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
@@ -26,6 +27,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
