@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
+| [3660-jump-game-ix](https://github.com/HemanthM18/Leetcode-Problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3668-restore-finishing-order](https://github.com/HemanthM18/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/HemanthM18/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [3660-jump-game-ix](https://github.com/HemanthM18/Leetcode-Problems/tree/main/3660-jump-game-ix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
